@@ -5,6 +5,12 @@ window.createIntroTimeline=function(){
   const stage=document.getElementById('stage');
   const tl=gsap.timeline({paused:true});
   tl.fromTo('.mesh',{'--hf-x1':'26%','--hf-y1':'48%','--hf-x2':'70%','--hf-y2':'25%','--hf-x3':'69%','--hf-y3':'85%'},{'--hf-x1':'33%','--hf-y1':'41%','--hf-x2':'63%','--hf-y2':'34%','--hf-x3':'61%','--hf-y3':'72%',duration:8,ease:'sine.inOut'},0);
+  // Aurora-drift's oversize blurred fields, with two restrained flowing light ribbons.
+  tl.fromTo('.aurora-a',{x:-70,y:70,scale:.96},{x:160,y:-110,scale:1.1,duration:8,ease:'sine.inOut'},0);
+  tl.fromTo('.aurora-b',{x:90,y:-60,scale:1.06},{x:-170,y:150,scale:.96,duration:8,ease:'sine.inOut'},0);
+  tl.fromTo('.light-ribbon-a',{x:-260,y:140,scaleX:.84},{x:260,y:-110,scaleX:1.12,duration:8,ease:'sine.inOut'},0);
+  tl.fromTo('.light-ribbon-b',{x:190,y:-110,scaleX:1.1},{x:-220,y:130,scaleX:.88,duration:8,ease:'sine.inOut'},0);
+  tl.fromTo('.rim-light',{'--rim-angle':'-35deg',opacity:.38},{'--rim-angle':'285deg',opacity:.78,duration:8,ease:'sine.inOut'},0);
   tl.fromTo('.device-frame',{opacity:0,y:88,scale:.96,rotationX:6,rotationY:-14,rotationZ:-10},{opacity:1,y:0,scale:1,rotationX:3,rotationY:-8,rotationZ:-5,duration:1.12,ease:'power3.out'},.08);
   tl.fromTo('.phone-shadow',{opacity:0,scale:.75},{opacity:.9,scale:1,duration:1.1,ease:'power3.out'},.12);
   tl.fromTo('.frame-header',{opacity:0},{opacity:1,duration:.8,ease:'power2.out'},.25);
