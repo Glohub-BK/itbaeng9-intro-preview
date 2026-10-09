@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "youtube",
+    "file": "youtube.svg",
+    "provenance": {
+      "provider": "thesvg",
+      "prompt": "YouTube official play logo",
+      "entity": "youtube",
+      "slug": "youtube",
+      "variant": "default",
+      "variants": [
+        "default",
+        "mono",
+        "wordmark",
+        "wordmarkLight",
+        "wordmarkDark"
+      ],
+      "collection": "brands",
+      "license": "CC0-1.0",
+      "pinned": "glincker/thesvg@e5957fa742c1ebf6da07ac40665bdd01d8add35f"
+    }
+  },
+  {
+    "entity": "tiktok",
+    "file": "tiktok.svg",
+    "provenance": {
+      "provider": "thesvg",
+      "prompt": "TikTok official icon logo",
+      "entity": "tiktok",
+      "slug": "tiktok",
+      "variant": "default",
+      "variants": [
+        "default",
+        "mono",
+        "light",
+        "dark",
+        "wordmark",
+        "wordmarkLight",
+        "wordmarkDark"
+      ],
+      "collection": "brands",
+      "license": "CC0-1.0",
+      "pinned": "glincker/thesvg@e5957fa742c1ebf6da07ac40665bdd01d8add35f"
+    }
+  },
+  {
+    "entity": "instagram",
+    "file": "instagram.svg",
+    "provenance": {
+      "provider": "thesvg",
+      "prompt": "Instagram official gradient icon logo",
+      "entity": "instagram",
+      "slug": "instagram",
+      "variant": "default",
+      "variants": [
+        "default",
+        "mono",
+        "wordmark"
+      ],
+      "collection": "brands",
+      "license": "CC0-1.0",
+      "pinned": "glincker/thesvg@e5957fa742c1ebf6da07ac40665bdd01d8add35f"
+    }
+  }
+]
