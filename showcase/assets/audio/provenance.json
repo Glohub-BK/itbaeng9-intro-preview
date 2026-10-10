@@ -1,0 +1,59 @@
+{
+  "bgm": {
+    "source": "existing workspace assets/audio/bgm-house.mp3",
+    "status": "previously used channel bed; original catalog/rights not captured in this task; no new generation"
+  },
+  "sfx": [
+    {
+      "id": "sfx_001",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_001.mp3",
+      "source": "reused-explicit",
+      "description": "Cinematic whoosh build (~5.5s) — sweeping scene transition. Align so the swell peaks on the cut.",
+      "duration": 5.5,
+      "provenance": {
+        "provider": "bundled.sfx",
+        "prompt": "brief low thump with short cinematic airy whoosh for impactful typographic word arrival, dry, restrained, no music",
+        "library_key": "whoosh-cinematic",
+        "imported_from": "0a0f3505856fdfa84ac6b86b3c55ccd0ef1eb4ff0907d7b6934002218a73404e",
+        "reused_by": "agent"
+      },
+      "advisory": {
+        "code": "not_found",
+        "message": "media-use: heygen CLI not found — it's the free path for bgm/image/voice/avatar-video. Install the CLI from https://developers.heygen.com/cli, then run: heygen auth login --oauth"
+      }
+    },
+    {
+      "id": "sfx_002",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_002.mp3",
+      "source": "reused-explicit",
+      "description": "Bass impact hit — logo/hero snap, headline slam. Trigger on the visual landing; decay carries into the next shot (J-cut).",
+      "duration": 2.1,
+      "provenance": {
+        "provider": "bundled.sfx",
+        "prompt": "short restrained bass impact hit, punchy low-end thud with crisp transient, under 1 second for a headline slam",
+        "library_key": "impact-bass-1",
+        "imported_from": "634d5eda5eb7b501aca98393a64f3815eccf24157cd1d95df55aaec1b5000bd7",
+        "reused_by": "agent"
+      },
+      "advisory": {
+        "code": "not_found",
+        "message": "media-use: heygen CLI not found — it's the free path for bgm/image/voice/avatar-video. Install the CLI from https://developers.heygen.com/cli, then run: heygen auth login --oauth"
+      }
+    },
+    {
+      "id": "sfx_003",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_003.mp3",
+      "source": "bundled",
+      "description": "Notification chime — alert, message-in, toast/badge appears. Sync to the element entering.",
+      "duration": 2.5,
+      "provenance": {
+        "provider": "bundled.sfx",
+        "prompt": "short notification ding",
+        "library_key": "notification"
+      }
+    }
+  ]
+}
