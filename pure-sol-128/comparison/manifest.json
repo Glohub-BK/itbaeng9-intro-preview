@@ -1,0 +1,67 @@
+{
+  "prompt_sha256": "c8824089e8cb5c8a7ab04fc7be65c50f51fb9d25633559b0905dbe36adbb9ef0",
+  "same_prompt_files": [
+    "common-prompt.md",
+    "opus55-ready-prompt.txt"
+  ],
+  "status": "prepared_not_run",
+  "motion_source_included": false,
+  "shared_music": true,
+  "files": [
+    {
+      "path": "README-KO.md",
+      "sha256": "73da8b5df218a63678485e36c4f8a1c2877e874860f2882b1da5c5931e7e9245",
+      "bytes": 2632
+    },
+    {
+      "path": "common-prompt.md",
+      "sha256": "c8824089e8cb5c8a7ab04fc7be65c50f51fb9d25633559b0905dbe36adbb9ef0",
+      "bytes": 7506
+    },
+    {
+      "path": "execution-record.json",
+      "sha256": "ae1d6604bba341dfa79e8d6d484ff684f54009dc0d232ab6282a038e0641ab98",
+      "bytes": 379
+    },
+    {
+      "path": "inputs/assets/fonts/LICENSE-Pretendard.txt",
+      "sha256": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a",
+      "bytes": 4816
+    },
+    {
+      "path": "inputs/assets/fonts/Pretendard-Bold.woff2",
+      "sha256": "4609c3356e536fafe38f4add0daeceb3d8595d3057bce13c428c33ddbd43d362",
+      "bytes": 791156
+    },
+    {
+      "path": "inputs/assets/fonts/Pretendard-Regular.woff2",
+      "sha256": "fad853f7f47c6c8b103171e7193fa095708cdcd70850a71d93aa5379e8a61d63",
+      "bytes": 765892
+    },
+    {
+      "path": "inputs/audio/master.mp3",
+      "sha256": "4febd0ebc1cdb5dd80d0cbe921098ad53df9c8de81e42525f5c4da8a4c4d659d",
+      "bytes": 901484
+    },
+    {
+      "path": "inputs/audio/master.wav",
+      "sha256": "89457195b8006e0c2a317fb737665cc598775ec8121d408b322e30f6a32825f7",
+      "bytes": 7200044
+    },
+    {
+      "path": "inputs/beat-map.json",
+      "sha256": "2642fda55b4fb555a7443a9918b1ad7910b1df401d7c008f95e44f4eec551006",
+      "bytes": 3144
+    },
+    {
+      "path": "inputs/project-records.json",
+      "sha256": "2cd69a354b95c2b63103ac74bc987ce9aa8edc7220b027a8b7363ccb069734f8",
+      "bytes": 829
+    },
+    {
+      "path": "opus55-ready-prompt.txt",
+      "sha256": "c8824089e8cb5c8a7ab04fc7be65c50f51fb9d25633559b0905dbe36adbb9ef0",
+      "bytes": 7506
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "channel": "IT뱅구",
+  "purpose": "AI를 실제 콘텐츠와 작업에 활용하는 과정을 함께 배우는 채널",
+  "topics": [
+    {
+      "title": "AI 영상 제작",
+      "evidence": "videos/sound-library-series/BRIEF.md",
+      "visual": "phone/play/timeline"
+    },
+    {
+      "title": "BGM · 효과음",
+      "evidence": "videos/sound-library-series/BRIEF.md",
+      "visual": "waveform"
+    },
+    {
+      "title": "옵시디언 기록",
+      "evidence": "videos/obsidian-real-top5/BRIEF.md",
+      "visual": "linked nodes/knowledge graph"
+    },
+    {
+      "title": "Ego Lite 자동화",
+      "evidence": "videos/ego-lite-field-guide/",
+      "visual": "browser tabs/path/check"
+    }
+  ],
+  "public_claims": "Topics only; no invented counts, audience statistics or claims of unverified publication."
+}

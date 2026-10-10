@@ -1,0 +1,166 @@
+{
+  "bpm": 128,
+  "beatSeconds": 0.46875,
+  "duration": 37.5,
+  "beats": 80,
+  "bars": 20,
+  "fps": 60,
+  "sections": [
+    {
+      "index": 0,
+      "startBeat": 0,
+      "endBeat": 8,
+      "start": 0.0,
+      "duration": 3.75,
+      "copy": "한 점의 상상",
+      "form": "point / line",
+      "capture": 2.109375
+    },
+    {
+      "index": 1,
+      "startBeat": 8,
+      "endBeat": 16,
+      "start": 3.75,
+      "duration": 3.75,
+      "copy": "선을 넘어",
+      "form": "polygon / ring",
+      "capture": 5.859375
+    },
+    {
+      "index": 2,
+      "startBeat": 16,
+      "endBeat": 24,
+      "start": 7.5,
+      "duration": 3.75,
+      "copy": "형태가 되고",
+      "form": "faceted form / phone",
+      "capture": 9.609375
+    },
+    {
+      "index": 3,
+      "startBeat": 24,
+      "endBeat": 32,
+      "start": 11.25,
+      "duration": 3.75,
+      "copy": "영상이 되고",
+      "form": "film / timeline",
+      "capture": 13.359375
+    },
+    {
+      "index": 4,
+      "startBeat": 32,
+      "endBeat": 40,
+      "start": 15.0,
+      "duration": 3.75,
+      "copy": "소리로 완성",
+      "form": "waveform / musical form",
+      "capture": 17.109375
+    },
+    {
+      "index": 5,
+      "startBeat": 40,
+      "endBeat": 48,
+      "start": 18.75,
+      "duration": 3.75,
+      "copy": "기록을 연결",
+      "form": "knowledge graph",
+      "capture": 20.859375
+    },
+    {
+      "index": 6,
+      "startBeat": 48,
+      "endBeat": 56,
+      "start": 22.5,
+      "duration": 3.75,
+      "copy": "반복을 자동화",
+      "form": "browser / path",
+      "capture": 24.609375
+    },
+    {
+      "index": 7,
+      "startBeat": 56,
+      "endBeat": 64,
+      "start": 26.25,
+      "duration": 3.75,
+      "copy": "함께 배우고 직접 만들자",
+      "form": "connected craft / invitation",
+      "capture": 28.359375
+    },
+    {
+      "index": 8,
+      "startBeat": 64,
+      "endBeat": 72,
+      "start": 30.0,
+      "duration": 3.75,
+      "copy": "구독 · 좋아요",
+      "form": "physical CTA feedback",
+      "capture": 32.109375
+    },
+    {
+      "index": 9,
+      "startBeat": 72,
+      "endBeat": 80,
+      "start": 33.75,
+      "duration": 3.75,
+      "copy": "AI 전문 채널 IT뱅구",
+      "form": "glyph particles / logo resolve",
+      "capture": 35.859375
+    }
+  ],
+  "cta": {
+    "subscribeBeat": 65,
+    "likeBeat": 67
+  },
+  "majorMorphBeats": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80
+  ],
+  "audioBreakBeats": [
+    39,
+    40
+  ],
+  "finalResolveBeat": 76,
+  "actualAuthor": "GPT 6.1 Sol",
+  "middleHook": {
+    "beat": 40,
+    "time": 18.75,
+    "visual": "subscription check becomes knowledge center",
+    "audio": "original synthesized click"
+  },
+  "glyphMorphs": [
+    {
+      "startBeat": 9.6,
+      "endBeat": 11.5,
+      "text": "선을 넘어"
+    },
+    {
+      "startBeat": 57.7,
+      "endBeat": 61.35,
+      "text": "직접 만들자."
+    },
+    {
+      "startBeat": 72.2,
+      "resolveBeat": 76,
+      "text": "IT뱅구"
+    }
+  ]
+}
